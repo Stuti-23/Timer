@@ -65,7 +65,7 @@ body {
      .body{
         display: grid;
         place-items: center;
-        background-image: url("image.png");
+        background-image: url("image.jpg");
         background-repeat: no-repeat;
         
     }
