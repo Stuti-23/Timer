@@ -62,5 +62,15 @@ body {
         font-size: 1rem;
         padding: 8px 16px;
     }
+     .body{
+        display: grid;
+        place-items: center;
+        background-image: url("https://i.pinimg.com/564x/9f/fe/23/9ffe23baf2587837514ecd95e698a5f1.jpg");
+        background-repeat: no-repeat;
+        
+    }
+    .container{
+        background-color: bisque;
+    }
 }
 
