@@ -1,4 +1,4 @@
-var minute=1;
+var minute=25;
 var second=0;
 var timer;
 var isrunning=false;
